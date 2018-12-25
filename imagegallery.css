@@ -1,0 +1,25 @@
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: cornflowerblue;
+    background-color: azure;
+}
+
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+    border-color: azure;
+}
+
+.navbar-inverse {
+    background: azure;
+}
