@@ -1,0 +1,41 @@
+body {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    align-self: center;
+    border: 20px solid #bdc3c7;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+    align-self: auto;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+.quote {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+
+}
+
+border around the body is 23px has explicit width too border color #bdc37c date color # 3498db h2 color #2c3e50 - heading color font source sans pro - for body paragraphs all upper case on date- letter spacing block quote on paragraphs,
+left border turned on. words all aligned the SAME in between post theres a HR line element bacon ipsum.
