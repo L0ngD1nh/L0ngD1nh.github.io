@@ -98,7 +98,7 @@
 								<header>
 									<h2>Contact Me</h2>
 								</header>
-								<form action="#" method="post">
+								<form method="POST" data-netlify="true">
 									<div>
 										<div class="row">
 											<div class="col-6 col-12-medium">
@@ -112,6 +112,12 @@
 											</div>
 											<div class="col-12">
 												<textarea name="message" placeholder="Message" rows="6"></textarea>
+											</div>
+											<div class="field">
+												<input type="file " name="myfile" placeholder="Upload File" id="myfile" rows="7" >
+											</div>
+											<div class="field">
+												<div data-netlify-recaptcha="true"></div>
 											</div>
 											<div class="col-12">
 												<input type="submit" value="Send Message" />
